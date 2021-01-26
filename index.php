@@ -11,18 +11,14 @@
 
 <div class="container">
     <h1>Js practice</h1>
-    
     <div class="row" id="items">
-        
     </div>
-
 </div>
-
-
-
-<script src="/base.js"></script>
-<script src="/plugins/modal.js"></script>
-<script src="/plugins/confirm.js"></script>
-<script src="/index.js"></script>
+    
+    <script src="/base.js"></script>
+    <script src="/plugins/modal.js"></script>
+    <script src="/plugins/confirm.js"></script>
+    <script src="/index.js"></script>
+    
 </body>
 </html>
